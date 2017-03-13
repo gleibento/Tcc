@@ -85,7 +85,7 @@ class Produto {
     }
 
     public function __toString() {
-        return json_encode([
+        return \json_encode([
             "idProduto" => $this->getIdProduto(),
             "nome" => $this->getNome(),
             "quantidade" => $this->getQuantidade(),
