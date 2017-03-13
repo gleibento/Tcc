@@ -7,8 +7,13 @@
  */
 
 require_once './config.php';
-$sql = new Sql();
-
-$pessoa = $sql->select("select * from produto");
-
-echo print_r($pessoa);
+//$sql = new Sql();
+//
+//$pessoa = $sql->select("select * from produto order by nome");
+//echo "<pre>";
+//echo \json_encode($pessoa);
+//echo '<br/>';
+//echo "<pre/>";
+$produto = new Produto();
+ $produto->loadById(4);
+ echo $produto;
