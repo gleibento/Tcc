@@ -3,8 +3,15 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/xampp/htdocs/Tcc/index.php</file>
-            <file>file:/C:/xampp/htdocs/Tcc/package.json</file>
+            <file>file:/C:/xampp/htdocs/Tcc/Dao/index.php</file>
+            <file>file:/C:/xampp/htdocs/Tcc/gulpTasks/app.js</file>
+            <file>file:/C:/xampp/htdocs/Tcc/view/index.php</file>
+            <file>file:/C:/xampp/htdocs/Tcc/gulpTasks/server.js</file>
+            <file>file:/C:/xampp/htdocs/Tcc/Dao/config.php</file>
+            <file>file:/C:/xampp/htdocs/Tcc/class/Sql.php</file>
+            <file>file:/C:/xampp/htdocs/Tcc/class/Produto.php</file>
+            <file>file:/C:/xampp/htdocs/Tcc/gulpTasks/deps.js</file>
+            <file>file:/C:/xampp/htdocs/Tcc/gulpfile.js</file>
         </group>
     </open-files>
 </project-private>

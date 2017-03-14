@@ -30,5 +30,12 @@ and open the template in the editor.
                 </nav>
             </header>
         </div>
+        <div class="row">
+            <div class="form-group">
+                <label for="exemplo ">Label: </label>    
+                <input id="exemplo" type="text" class="form-control" />
+            </div>
+
+        </div>
     </body>
 </html>

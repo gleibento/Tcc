@@ -94,5 +94,12 @@ class Produto {
             //"dtCadastro" => $this->setDtCadastro()->format("d/m/Y H:i:s")
         ]);
     }
-
+public function insert(){
+    $sql = new Sql();
+    $sql->query("insert into produto(nome,descricao,quantidade,valor) values()", [
+        
+        
+    ]);
+    
+}
 }
